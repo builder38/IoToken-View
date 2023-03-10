@@ -1,0 +1,123 @@
+#map { 
+    position: absolute; 
+    top: 60px; 
+    height: 640px; 
+    width: 900px; 
+    left: 40px; 
+    border: 3px solid #4c6f1c;
+}
+
+.sensor_form{
+    position: relative; 
+    color: black;  
+    padding: 8px 25px;
+    top: 55px; 
+    height: 545px; 
+    width: 365px; 
+    left: 940px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(219, 221, 206);
+    border: 1px solid rgb(14, 13, 13);
+}
+
+.sensor_form2{
+    position: relative;  
+    color: black;  
+    padding: 8px 25px;
+    top: 60px; 
+    height: 100px; 
+    width: 365px; 
+    left: 940px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(187, 190, 158);
+    border: 1px solid rgb(14, 13, 13);
+}
+
+.sensor_form3{
+    position: relative; 
+    color: black;  
+    padding: 8px 25px;
+    bottom: 487px; 
+    height: 541px; 
+    width: 365px; 
+    left: 940px;
+    cursor: pointer;
+    border: 1px solid rgb(14, 13, 13);
+    background-color: rgb(187, 190, 158);
+    z-index: 4;
+}
+
+
+
+#mapdesc {
+    background-color: rgb(249, 255, 192);
+    color: black;
+    font-weight: bold;
+    padding: 4px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#menu {
+    background: #fff;
+    position: absolute;
+    z-index: 4;
+    top: 80px;
+    left: 70px;
+    border-radius: 7px;
+    width: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    font-family: 'Open Sans', sans-serif;
+    }
+     
+#menu a {
+    font-size: 13px;
+    color: #404040;
+    display: block;
+    margin: 0;
+    padding: 0;
+    padding: 10px;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+     
+#menu a:last-child {
+    border: none;
+}
+     
+#menu a:hover {
+    background-color: #f8f8f8;
+    color: #404040;
+}
+     
+#menu a.active {
+    background-color: #3887be;
+    color: #ffffff;
+}
+     
+#menu a.active:hover {
+    background: #3074a4;
+}
+
+.mapboxgl-popup{
+    transform:none !important;
+     top: 75%;
+    left: 650px;
+}
+
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip{ 
+    display:none !important;
+}
+
+.mapboxgl-ctrl-logo {
+    display: none !important;
+}
+
+ 
