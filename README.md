@@ -1,24 +1,24 @@
 Welcome to IoToken View!
 ---------------------
 
-**Iotoken View** is a prototype GIS application that incorporates Distributed Ledger Technology (Blockchain) into the process of collecting and storing spatial geometries (points, line, polygons). _**[Open FieldBoss Here](https://dev.dt5hj1vwo18dz.amplifyapp.com)**_  Click a feature on the map to display a popup and click 'select' to view recent inspection data. Zoom to your current location by clicking the 'globe' button and start collecting and reviewing spatial data. See 'Navigating the UI' for specific instructions. (Note: the default theme is Stormwater Inspection) FieldBoss is adaptable and can be used to collect any type of data at any location.  
+**IoToken View** is a prototype GIS application that incorporates Distributed Ledger Technology (Blockchain) into the process of collecting and storing spatial geometries (points, line, polygons). _**[Open FieldBoss Here](https://dev.dt5hj1vwo18dz.amplifyapp.com)**_  Click a feature on the map to display a popup and click 'select' to view recent inspection data. Zoom to your current location by clicking the 'globe' button and start collecting and reviewing spatial data. See 'Navigating the UI' for specific instructions. (Note: the default theme is Stormwater Inspection) FieldBoss is adaptable and can be used to collect any type of data at any location.  
 
 ![image info](./img/fieldboss.jpg)
 
 Table of Contents
-1.  [What Is FieldBoss](#what-is-fieldboss)
-2.  [What Is A Geo-Located NFT](#what-is-a-geo-located-nft)
-3.  [A FieldBoss Use Case](#about-the-project)
+1.  [What is IoToken View](#what-is-iotoken-view)
+2.  [What is a Geo-Located NFT](#what-is-a-geo-located-nft)
+3.  [An IoToken View Use Case](#about-the-project)
 4.  [Getting Started](#getting-started)
 5.  [Navigating the UI](#navigating-the-ui)
 6.  [Built With](#built-with)
 7.  [Roadmap](#roadmap)
 8.  [Contact](#contact)
 
-What Is FieldBoss
+What Is IoToken View
 -----------------
 
-_**FieldBoss**_ is a mapping application that merges blockchain technology with popular open source GIS mapping tools through the use of geo-located XRPL NFTs. With FieldBoss, GIS applications are extended to include the real-time tokenization of 2d/3d unique geometries collected by field crews. By combining the analytical power of GIS (assets represented spatially) with the transparency, immutability, and security of blockchain technology we can show the spatial and temporal distribution of information which is securely stored on blockchain and distributed file systems.
+_**IoToken View**_ is a mapping application that merges blockchain technology with popular open source GIS mapping tools through the use of geo-located XRPL NFTs. With FieldBoss, GIS applications are extended to include the real-time tokenization of 2d/3d unique geometries collected by field crews. By combining the analytical power of GIS (assets represented spatially) with the transparency, immutability, and security of blockchain technology we can show the spatial and temporal distribution of information which is securely stored on blockchain and distributed file systems.
 
 What Is A Geo-Located NFT
 -------------------------
