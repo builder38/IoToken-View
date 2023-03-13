@@ -20,7 +20,7 @@ What Is IoToken View
 
 _**IoToken View**_ is a mapping application that merges blockchain technology with popular open source GIS mapping tools through the use of geo-located XRPL NFTs. With FieldBoss, GIS applications are extended to include the real-time tokenization of 2d/3d unique geometries collected by field crews. By combining the analytical power of GIS (assets represented spatially) with the transparency, immutability, and security of blockchain technology we can show the spatial and temporal distribution of information which is securely stored on blockchain and distributed file systems.
 
-![image info](./img/iotoken4.jpg)
+![image info](./img/iotoken5.jpg)
 
 What Is A Geo-Located NFT
 -------------------------
